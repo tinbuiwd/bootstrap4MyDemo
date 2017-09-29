@@ -1,0 +1,22 @@
+*{margin: 0; padding: 0;}
+
+.oneuser img {
+    width: 46%;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    box-shadow: 0 0 0 5px #aba8a8;
+    margin-bottom: 7px;
+}
+
+.oneuser {
+    width: 330px;
+    height: 390px;
+    border-radius: 4px;
+} 
+@font-face {
+	src:url("fonts/Lato-Light.ttf");
+	font-family: latolinght;
+}
+.ten {
+	font-family: latolinght;
+}
